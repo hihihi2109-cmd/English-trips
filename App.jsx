@@ -1,5 +1,5 @@
-import { useState, useEffect, useRef } from "react";
-import { Heart, Flame, Zap, Volume2, Check, X, ArrowLeft, Lock, Sparkles, Play } from "lucide-react";
+import React from "react";
+import { MapPin, Calendar, ChevronRight, ChevronLeft, Clock, Info } from "lucide-react";
 
 // ═══════════════════════════════════════════════════════════════════
 // CONTENT — edit this to add units, lessons, and exercises.
